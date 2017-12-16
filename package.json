@@ -1,0 +1,19 @@
+{
+  "name": "images-gs-server",
+  "version": "1.0.0",
+  "description": "Server for the IMAGES app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Green-Shadow/IMAGES-server.git"
+  },
+  "author": "GreenShadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Green-Shadow/IMAGES-server/issues"
+  },
+  "homepage": "https://github.com/Green-Shadow/IMAGES-server#readme"
+}
